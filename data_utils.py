@@ -11,6 +11,9 @@ import os
 import torch
 from torch.utils.data import Dataset, DataLoader
 from bs4 import BeautifulSoup
+from bs4 import MarkupResemblesLocatorWarning
+import warnings
+warnings.filterwarnings("ignore", category=MarkupResemblesLocatorWarning)
 from sklearn.model_selection import train_test_split
 from transformers import AutoTokenizer
 
