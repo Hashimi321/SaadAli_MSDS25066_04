@@ -1,0 +1,11 @@
+﻿dl_env/
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+weights/*.pt
+weights/*.pth
+.vscode/
+.DS_Store
+Thumbs.db
+explore_data.py
