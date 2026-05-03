@@ -1,0 +1,29 @@
+GENERATED QA EXAMPLES
+Model: MiniGPT - Saad Ali (MSDS25066)
+============================================================
+
+Question 1: How do I read a CSV file in Python?
+Answer   1: can am
+
+------------------------------------------------------------
+
+Question 2: How to reverse a list in Python?
+Answer   2: , . not not python use but . . use that 2
+
+------------------------------------------------------------
+
+Question 3: What is the difference between list and tuple?
+Answer   3: to
+
+------------------------------------------------------------
+
+Question 4: How do I handle exceptions in Python?
+Answer   4: [Model generated no tokens. Try different temperature or train longer.]
+
+------------------------------------------------------------
+
+Question 5: How to sort a dictionary by value in Python?
+Answer   5: this t s , using
+
+------------------------------------------------------------
+

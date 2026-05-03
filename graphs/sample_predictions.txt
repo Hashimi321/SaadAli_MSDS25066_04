@@ -1,0 +1,48 @@
+SAMPLE PREDICTIONS FROM TEST SET
+============================================================
+
+--- Sample 1 ---
+INPUT    : < saadali _ msds25066 > indexerror when implementing quicksort cs50 style . as someone fairly new to programming , i am trying to implement quicksort in python . however , i am trying to implement it in a way , that does not seem the most common one . i am using the technique explained in this video
+
+TARGET   : saadali _ msds25066 > indexerror when implementing quicksort cs50 style . as someone fairly new to programming , i am trying to implement quicksort in python . however , i am trying to implement it in a way , that does not seem the most common one . i am using the technique explained in this video b
+
+PREDICTED: to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+
+------------------------------------------------------------
+
+--- Sample 2 ---
+INPUT    : < saadali _ msds25066 > capturing program debug event messages . i m trying to capture a debug event message from an in house developed application using python . i have looked at using win32event and other features in pywin32 . the process will be launched with python , i have been using subprocess
+
+TARGET   : saadali _ msds25066 > capturing program debug event messages . i m trying to capture a debug event message from an in house developed application using python . i have looked at using win32event and other features in pywin32 . the process will be launched with python , i have been using subprocess .
+
+PREDICTED: to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+
+------------------------------------------------------------
+
+--- Sample 3 ---
+INPUT    : < saadali _ msds25066 > nonetype object has no attribute , reference class variable declared before init . i am using flask with sqlalchemy to create a 1 to 1 relationship between a search request and parsed data . once a user has checked over the search results , they can click continue to parse th
+
+TARGET   : saadali _ msds25066 > nonetype object has no attribute , reference class variable declared before init . i am using flask with sqlalchemy to create a 1 to 1 relationship between a search request and parsed data . once a user has checked over the search results , they can click continue to parse the 
+
+PREDICTED: to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+
+------------------------------------------------------------
+
+--- Sample 4 ---
+INPUT    : < saadali _ msds25066 > python parallel coordinates subplots in subplot . i saw this example on how to create a parallel coordinate plot parallel coordinates this creates a nice parallel coordinates figure , but i would like to add this plot to an already existing figure in a subplot there should be
+
+TARGET   : saadali _ msds25066 > python parallel coordinates subplots in subplot . i saw this example on how to create a parallel coordinate plot parallel coordinates this creates a nice parallel coordinates figure , but i would like to add this plot to an already existing figure in a subplot there should be a
+
+PREDICTED: to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+
+------------------------------------------------------------
+
+--- Sample 5 ---
+INPUT    : < saadali _ msds25066 > python api client rerun function if run unsuccessfully . python requests api client has a function that needs to re execute if run unsuccessfully . kitten baseclient def create self , params uri self . base url data dict params or r self . client . post uri , data json . dump
+
+TARGET   : saadali _ msds25066 > python api client rerun function if run unsuccessfully . python requests api client has a function that needs to re execute if run unsuccessfully . kitten baseclient def create self , params uri self . base url data dict params or r self . client . post uri , data json . dumps 
+
+PREDICTED: to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to to 
+
+------------------------------------------------------------
+
