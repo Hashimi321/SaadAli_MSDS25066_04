@@ -1,17 +1,3 @@
-# MSDS25066_04_allCode.py
-# PURPOSE  : Combined code file for Assignment 4 submission
-# Author   : Saad Ali (MSDS25066)
-# Course   : Deep Learning - Spring 2026
-#
-# This file contains ALL code from:
-#   - data_utils.py
-#   - model.py
-#   - train.py
-#   - test.py
-#   - test_eval.py
-#   - msds25066_04_task1.py
-#
-# For running the code, use individual files as per README.md 
 
 # data_utils.py
 # PURPOSE : Load, clean, tokenize and prepare Stack Overflow data
